@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beisselmerite-dev.vercel.app/sitemap.xml
